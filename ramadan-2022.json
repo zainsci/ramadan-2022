@@ -1,0 +1,302 @@
+[
+  {
+    "hijri": {
+      "date": 1,
+      "fulldate": "Ramadan 01, 1443"
+    },
+    "gregorian": {
+      "date": 3,
+      "fulldate": "April 03, 2022"
+    }
+  },
+  {
+    "hijri": {
+      "date": 2,
+      "fulldate": "Ramadan 02, 2022"
+    },
+    "gregorian": {
+      "date": 4,
+      "fulldate": "April 04, 2022"
+    }
+  },
+  {
+    "hijri": {
+      "date": 3,
+      "fulldate": "Ramadan 03, 2022"
+    },
+    "gregorian": {
+      "date": 5,
+      "fulldate": "April 05, 2022"
+    }
+  },
+  {
+    "hijri": {
+      "date": 4,
+      "fulldate": "Ramadan 04, 2022"
+    },
+    "gregorian": {
+      "date": 6,
+      "fulldate": "April 06, 2022"
+    }
+  },
+  {
+    "hijri": {
+      "date": 5,
+      "fulldate": "Ramadan 05, 2022"
+    },
+    "gregorian": {
+      "date": 7,
+      "fulldate": "April 07, 2022"
+    }
+  },
+  {
+    "hijri": {
+      "date": 6,
+      "fulldate": "Ramadan 06, 2022"
+    },
+    "gregorian": {
+      "date": 8,
+      "fulldate": "April 08, 2022"
+    }
+  },
+  {
+    "hijri": {
+      "date": 7,
+      "fulldate": "Ramadan 07, 2022"
+    },
+    "gregorian": {
+      "date": 9,
+      "fulldate": "April 09, 2022"
+    }
+  },
+  {
+    "hijri": {
+      "date": 8,
+      "fulldate": "Ramadan 08, 2022"
+    },
+    "gregorian": {
+      "date": 10,
+      "fulldate": "April 10, 2022"
+    }
+  },
+  {
+    "hijri": {
+      "date": 9,
+      "fulldate": "Ramadan 09, 2022"
+    },
+    "gregorian": {
+      "date": 11,
+      "fulldate": "April 11, 2022"
+    }
+  },
+  {
+    "hijri": {
+      "date": 10,
+      "fulldate": "Ramadan 10, 2022"
+    },
+    "gregorian": {
+      "date": 12,
+      "fulldate": "April 12, 2022"
+    }
+  },
+  {
+    "hijri": {
+      "date": 11,
+      "fulldate": "Ramadan 11, 2022"
+    },
+    "gregorian": {
+      "date": 13,
+      "fulldate": "April 13, 2022"
+    }
+  },
+  {
+    "hijri": {
+      "date": 12,
+      "fulldate": "Ramadan 12, 2022"
+    },
+    "gregorian": {
+      "date": 14,
+      "fulldate": "April 14, 2022"
+    }
+  },
+  {
+    "hijri": {
+      "date": 13,
+      "fulldate": "Ramadan 13, 2022"
+    },
+    "gregorian": {
+      "date": 15,
+      "fulldate": "April 15, 2022"
+    }
+  },
+  {
+    "hijri": {
+      "date": 14,
+      "fulldate": "Ramadan 14, 2022"
+    },
+    "gregorian": {
+      "date": 16,
+      "fulldate": "April 16, 2022"
+    }
+  },
+  {
+    "hijri": {
+      "date": 15,
+      "fulldate": "Ramadan 15, 2022"
+    },
+    "gregorian": {
+      "date": 17,
+      "fulldate": "April 17, 2022"
+    }
+  },
+  {
+    "hijri": {
+      "date": 16,
+      "fulldate": "Ramadan 16, 2022"
+    },
+    "gregorian": {
+      "date": 18,
+      "fulldate": "April 18, 2022"
+    }
+  },
+  {
+    "hijri": {
+      "date": 17,
+      "fulldate": "Ramadan 17, 2022"
+    },
+    "gregorian": {
+      "date": 19,
+      "fulldate": "April 19, 2022"
+    }
+  },
+  {
+    "hijri": {
+      "date": 18,
+      "fulldate": "Ramadan 18, 2022"
+    },
+    "gregorian": {
+      "date": 20,
+      "fulldate": "April 20, 2022"
+    }
+  },
+  {
+    "hijri": {
+      "date": 19,
+      "fulldate": "Ramadan 19, 2022"
+    },
+    "gregorian": {
+      "date": 21,
+      "fulldate": "April 21, 2022"
+    }
+  },
+  {
+    "hijri": {
+      "date": 20,
+      "fulldate": "Ramadan 20, 2022"
+    },
+    "gregorian": {
+      "date": 22,
+      "fulldate": "April 22, 2022"
+    }
+  },
+  {
+    "hijri": {
+      "date": 21,
+      "fulldate": "Ramadan 21, 2022"
+    },
+    "gregorian": {
+      "date": 23,
+      "fulldate": "April 23, 2022"
+    }
+  },
+  {
+    "hijri": {
+      "date": 22,
+      "fulldate": "Ramadan 22, 2022"
+    },
+    "gregorian": {
+      "date": 24,
+      "fulldate": "April 24, 2022"
+    }
+  },
+  {
+    "hijri": {
+      "date": 23,
+      "fulldate": "Ramadan 23, 2022"
+    },
+    "gregorian": {
+      "date": 25,
+      "fulldate": "April 25, 2022"
+    }
+  },
+  {
+    "hijri": {
+      "date": 24,
+      "fulldate": "Ramadan 24, 2022"
+    },
+    "gregorian": {
+      "date": 26,
+      "fulldate": "April 26, 2022"
+    }
+  },
+  {
+    "hijri": {
+      "date": 25,
+      "fulldate": "Ramadan 25, 2022"
+    },
+    "gregorian": {
+      "date": 27,
+      "fulldate": "April 27, 2022"
+    }
+  },
+  {
+    "hijri": {
+      "date": 26,
+      "fulldate": "Ramadan 26, 2022"
+    },
+    "gregorian": {
+      "date": 28,
+      "fulldate": "April 28, 2022"
+    }
+  },
+  {
+    "hijri": {
+      "date": 27,
+      "fulldate": "Ramadan 27, 2022"
+    },
+    "gregorian": {
+      "date": 29,
+      "fulldate": "April 29, 2022"
+    }
+  },
+  {
+    "hijri": {
+      "date": 28,
+      "fulldate": "Ramadan 28, 2022"
+    },
+    "gregorian": {
+      "date": 30,
+      "fulldate": "April 30, 2022"
+    }
+  },
+  {
+    "hijri": {
+      "date": 29,
+      "fulldate": "Ramadan 29, 2022"
+    },
+    "gregorian": {
+      "date": 1,
+      "fulldate": "May 01, 2022"
+    }
+  },
+  {
+    "hijri": {
+      "date": 30,
+      "fulldate": "Ramadan 30, 2022"
+    },
+    "gregorian": {
+      "date": 2,
+      "fulldate": "May 02, 2022"
+    }
+  }
+]
