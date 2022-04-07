@@ -8,7 +8,9 @@ export default function Calendar() {
 
   useEffect(() => {
     ;(async function () {
-      const res = await fetch("/ramadan-2022.json")
+      const res = await fetch(
+        "https://v1.zainsci.dev/ramadan-2022/ramadan-2022.json"
+      )
       const data = await res.json()
 
       if (data.length > 0) {
